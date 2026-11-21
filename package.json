@@ -1,0 +1,7 @@
+{
+  "name": "jai-card-extract",
+  "private": true,
+  "description": "Only for running the tests: the extension itself has no build step.",
+  "scripts": { "test": "node --test" },
+  "devDependencies": { "turndown": "7.2.5" }
+}
